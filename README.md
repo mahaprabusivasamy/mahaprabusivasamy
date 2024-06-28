@@ -1,12 +1,14 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm MAHAPRABU S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently Studing **3rd year BE computer science engineering**
+<h1>MY BLOG - <a href="https://www.a2zblg.com">A2Zblg</a></h1>
 
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently Studing **Final year BE computer science engineering**
 
-- 💬 Ask me about **Html,css,javascript,php,sql and react**
+- 🌱 I’m currently learning **DEVEOPS - world of Automation**
+
+- 💬 Ask me about **Html,css,javascript,php,sql and reactjs,mongodb,wordpress,cloud**
 
 - 📫 How to reach me **mahaprabusivasamy@gmail.com**
 
@@ -18,7 +20,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mahaprabu_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaprabu s) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mahaprabu_official) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/mahaprabu-s-7bb255230))](https://linkedin.com/in/mahaprabu s) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
