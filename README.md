@@ -2,84 +2,182 @@
 
 <div align="center">
 
-Backend Developer • Cloud Enthusiast • System Design Learner
+Backend Engineer • Distributed Systems Enthusiast • Cloud Computing
 
-Building scalable backend systems, REST APIs, and cloud-native applications.
+Building scalable backend systems, REST APIs, event-driven architectures, and cloud-native applications.
 
+<p>
+  <a href="https://www.linkedin.com/in/mahaprabu-s-7bb255230">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahaprabusivasamy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 </div>
 
 ⸻
 
 🚀 About Me
 
-I’m a Backend Developer passionate about building scalable backend systems, REST APIs, and cloud-based applications.
+I’m a Backend Engineer passionate about building scalable backend systems, distributed architectures, and cloud-native applications.
 
-* 💼 Backend Developer
-* 🌱 Currently learning System Design, Computer Networking, and Cloud Technologies
-* 💬 Ask me about Node.js, Express.js, React, PHP, MongoDB, MySQL, REST APIs, and AWS
-* 🚀 Interested in Scalable System Architecture, Cloud Computing, SaaS, and AI-powered Applications
-* 🎯 Goal: Become a Software Architect and build products that solve real-world problems
+* 💼 Backend Engineer
+* 🌱 Currently learning System Design, Computer Networking, Distributed Systems, and Cloud Technologies
+* 💬 Ask me about Node.js, Express.js, React, MongoDB, MySQL, RabbitMQ, Webhooks, REST APIs, AWS, and Backend Architecture
+* ⚡ Experienced in building event-driven systems, webhook integrations, real-time applications, and scalable backend services
+* 🎯 Goal: Become a Software Architect specializing in distributed systems and cloud infrastructure
 
 ⸻
 
-🛠️ Tech Stack
+💻 Tech Stack
 
-Languages
+👨‍💻 Programming Languages
 
-Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,c,html,css" />
+</p>
 
-Backend
+⸻
 
-Databases
+⚙️ Backend Development
 
-Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+Backend Technologies
+
+* REST API Development
+* Webhooks
+* Event-Driven Architecture
+* RabbitMQ
+* Socket.IO
+* JWT Authentication
+* OAuth 2.0
+* API Integration
+* MVC Architecture
+* Asynchronous Processing
+
+⸻
+
+🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+</p>
+
+⸻
+
+🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+Database Skills
+
+* MongoDB Atlas
+* Database Design
+* Query Optimization
+
+⸻
+
+☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,nginx" />
+</p>
+
+Cloud Services
+
+* Amazon EC2
+* Amazon S3
+* IAM
+* Server Deployment
+* Cloud Storage
+
+⸻
+
+🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+</p>
+
+⸻
+
+🏗️ Backend Concepts
+
+* Event-Driven Architecture
+* Distributed Systems
+* RESTful APIs
+* Webhook Integrations
+* Client-Server Architecture
+* Authentication & Authorization
+* Message Queue Systems
+* Real-Time Communication
+* Scalable Backend Design
+* API Security
+* Performance Optimization
+* Microservices Fundamentals
+
+⸻
+
+📚 Currently Learning
+
+* System Design
+* Computer Networking
+* Distributed Systems
+* Cloud Architecture
+* Design Patterns
+* Scalability
+* High Availability
+* Load Balancing
 
 ⸻
 
 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahaprabusivasamy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaprabusivasamy&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaprabusivasamy&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahaprabusivasamy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaprabusivasamy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaprabusivasamy&theme=tokyonight&hide_border=true"/>
+</div>
 
 ⸻
 
 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahaprabusivasamy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+<div align="center">
+</div>
 
 ⸻
 
 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahaprabu-s-7bb255230" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/@mahaprabusivasa1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/mahaprabusivasamy" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.a2zblg.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-A2Zblg-0A66C2?style=for-the-badge"/>
-  </a>
+<p>
+<a href="https://www.linkedin.com/in/mahaprabu-s-7bb255230">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:mahaprabusivasamy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/mahaprabusivasamy">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
-📧 Email: mahaprabusivasamy@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/mahaprabu-s-7bb255230
+* 💻 HackerRank: https://www.hackerrank.com/@mahaprabusivasa1
+* 🧩 LeetCode: https://leetcode.com/mahaprabusivasamy
+* 📧 Email: mahaprabusivasamy@gmail.com
 
 ⸻
 
 <div align="center">
 
-💡 “Code with purpose. Build scalable solutions. Never stop learning.”
+💡 “Building scalable systems, one API at a time.”
 
 ⭐ Thanks for visiting my profile!
 
