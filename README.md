@@ -1,42 +1,86 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm MAHAPRABU S</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+👋 Hi, I’m Mahaprabu S
 
-<h1>MY BLOG - <a href="https://www.a2zblg.com">A2Zblg</a></h1>
+<div align="center">
 
-- 🔭 I’m currently Studing **Final year BE computer science engineering**
+Backend Developer • Cloud Enthusiast • System Design Learner
 
-- 🌱 I’m currently learning **DEVEOPS - world of Automation**
+Building scalable backend systems, REST APIs, and cloud-native applications.
 
-- 💬 Ask me about **Html,css,javascript,php,sql and reactjs,mongodb,wordpress,cloud**
+</div>
 
-- 📫 How to reach me **mahaprabusivasamy@gmail.com**
+⸻
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/@mahaprabusivasa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mahaprabusivasa1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahaprabusivasamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahaprabusivasamy" height="30" width="40" /></a>
+🚀 About Me
+
+I’m a Backend Developer passionate about building scalable backend systems, REST APIs, and cloud-based applications.
+
+* 💼 Backend Developer
+* 🌱 Currently learning System Design, Computer Networking, and Cloud Technologies
+* 💬 Ask me about Node.js, Express.js, React, PHP, MongoDB, MySQL, REST APIs, and AWS
+* 🚀 Interested in Scalable System Architecture, Cloud Computing, SaaS, and AI-powered Applications
+* 🎯 Goal: Become a Software Architect and build products that solve real-world problems
+
+⸻
+
+🛠️ Tech Stack
+
+Languages
+
+Frontend
+
+Backend
+
+Databases
+
+Cloud & Tools
+
+⸻
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahaprabusivasamy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaprabusivasamy&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaprabusivasamy&theme=tokyonight&hide_border=true"/>
 </p>
 
+⸻
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mahaprabu_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaprabu-s-7bb255230)
+🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahaprabusivasamy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahaprabusivasamy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahaprabusivasamy&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaprabusivasamy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+⸻
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahaprabusivasamy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🌐 Connect With Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahaprabusivasamy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahaprabu-s-7bb255230" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/@mahaprabusivasa1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/mahaprabusivasamy" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.a2zblg.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-A2Zblg-0A66C2?style=for-the-badge"/>
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=mahaprabusivasamy&icon=2&color=6)](https://visitcount.itsvg.in)
+📧 Email: mahaprabusivasamy@gmail.com
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⸻
+
+<div align="center">
+
+💡 “Code with purpose. Build scalable solutions. Never stop learning.”
+
+⭐ Thanks for visiting my profile!
+
+</div>
